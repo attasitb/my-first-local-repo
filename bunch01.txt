@@ -1,1 +1,2 @@
 This is file bunch01.
+This is the new text added to the file bunch01.text
